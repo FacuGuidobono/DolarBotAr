@@ -41,7 +41,7 @@ def formatearFecha(fecha:str) -> str :
 
 # recibe la info de la api y devuelve un string con los datos
 def tipo_dolar(tipoDeDolar):
-    icon = tipoDeDolar # guardamos el icono
+    icon = tipoDeDolar # guardamos el tipo de dolar para luego recibir su tipo de icono
     url = base_url + tipoDeDolar  #url completa de la api
     
     dolar = requests.get(url)
@@ -49,7 +49,7 @@ def tipo_dolar(tipoDeDolar):
     if dolar.status_code == 200:   
             
             dolar = dolar.json()
-            icon = select_icon(icon)  # seleccionamos el icono de acuerdo a la url
+            icon = select_icon(icon)  # seleccionamos el icono de acuerdo al tipo de dolar elegido
             
     elif dolar.status_code == 404:
             return '⛔⛔Sin Conexión por el momento, intentelo más tarde!⛔⛔'
