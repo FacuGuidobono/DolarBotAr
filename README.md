@@ -12,6 +12,9 @@
 1️⃣ Cloná este repositorio:
 ```bash
 git clone https://github.com/FacuGuidobono/DolarBotAr.git
-cd DolarBotAr
+cd DolarBotAr 
+```
+2️⃣ Instalá los paquetes necesarios:
+```bash
 pip install -r requirements.txt
-
+```
