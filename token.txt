@@ -1,1 +1,1 @@
-#TOKEN obtenido del bot GodFather
+#TOKEN obtenido desde el bot GodFather
