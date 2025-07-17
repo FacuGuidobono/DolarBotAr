@@ -7,7 +7,7 @@
 - Crear y obtener el TOKEN para el bot desde [https://telegram.me/BotFather](https://telegram.me/BotFather)
 
 
-#📒 Cómo usar
+# 📒 Cómo usar
 
 1️⃣ Cloná este repositorio:
 ```bash
