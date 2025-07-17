@@ -1,1 +1,5 @@
-#TOKEN obtenido desde el bot GodFather
+# Instrucciones:
+# Pegá aquí el token de tu bot de Telegram, en una sola línea, sin espacios.
+# Obtenelo desde https://t.me/BotFather
+
+AQUÍ_VA_TU_TOKEN
