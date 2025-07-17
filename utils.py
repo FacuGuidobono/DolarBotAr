@@ -17,7 +17,7 @@ Para ver la cotizacion de un dolar en particular, elija una opción:\n\n
 .
 '''
 
-# selecciona el icono correspondiente a la url
+# selecciona el icono correspondiente al tipo de dolar elegido
 def select_icon (tipoDeDolar):
     match(tipoDeDolar):    
         case 'oficial':
