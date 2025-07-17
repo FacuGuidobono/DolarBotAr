@@ -2,10 +2,12 @@ import telebot
 from telebot import types
 from utils import tipo_dolar, tipo_dato, start_msg
 
-
-with open("token.txt", "r", encoding="utf-8") as f:
-    TOKEN = f.read()
-    f.close()
+try:   #!! Recorda reemplazar el contenido por tu TOKEN en el archivo token.txt
+    with open("token.txt", "r", encoding="utf-8") as f:   
+        TOKEN = f.read()
+        f.close()
+except:
+    print(" ⛔📄Archivo no encontrado o imposible de leer")
     
 bot = telebot.TeleBot(TOKEN)
 
