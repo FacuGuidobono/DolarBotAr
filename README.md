@@ -8,11 +8,13 @@
 
 ## Screenshots
 
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="300" height="200"/>
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="300" height="200"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="600" height="400"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="600" height="400"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png" width="600" height="400"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png" width="600" height="400"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/phone.jpg" width="600" height="400"/>
 
-![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png) ![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png)
-![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/phone.jpg)
+
 
 # 📒 Cómo usar
 
