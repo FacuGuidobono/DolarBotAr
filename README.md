@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Screenshots
 
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="720" height="480"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="720" height="720"/>
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="720" height="480"/>
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png" width="720" height="480"/>
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png" width="720" height="480"/>
