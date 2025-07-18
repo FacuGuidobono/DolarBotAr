@@ -4,17 +4,27 @@
   - [https://dolarapi.com/docs/argentina/](https://dolarapi.com/docs/argentina/)
   - [https://github.com/enzonotario/esjs-dolar-api](https://github.com/enzonotario/esjs-dolar-api)
 
-- Crear y obtener el TOKEN para el bot desde [https://telegram.me/BotFather](https://telegram.me/BotFather)
+- Crear el Bot y obtener el TOKEN desde [https://telegram.me/BotFather](https://telegram.me/BotFather)
 
 
 # 📒 Cómo usar
 
-1️⃣ Cloná este repositorio:
+1️⃣Ingresá a
+```bash
+https://telegram.me/BotFather
+segui los pasos que te indica el BotFather para crear el Bot en telegram y obtener el TOKEN del mismo.
+```
+
+2️⃣ Cloná este repositorio:
 ```bash
 git clone https://github.com/FacuGuidobono/DolarBotAr.git
 cd DolarBotAr 
 ```
-2️⃣ Instalá los paquetes necesarios:
+
+3️⃣ Instalá los paquetes necesarios:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
