@@ -6,6 +6,13 @@
 
 - Crear el Bot y obtener el TOKEN desde [https://telegram.me/BotFather](https://telegram.me/BotFather)
 
+## Screenshots
+
+![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png)
+![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png)
+![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png)
+![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png)
+![](https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/phone.png)
 
 # 📒 Cómo usar
 
