@@ -1,4 +1,4 @@
-- # 📱📈 DolarBotAr   [https://t.me/dolarAr_bot]
+- # 📱📈 DolarBotAr   [https://t.me/dolarAr_bot](https://t.me/dolarAr_bot)
 
 - Bot de Telegram desarrollado en Python que muestra los valores de compra y venta del dólar en Argentina usando la API de:
   - [https://dolarapi.com/docs/argentina/](https://dolarapi.com/docs/argentina/)
@@ -26,7 +26,7 @@ cd DolarBotAr
 pip install -r requirements.txt
 ```
 
-## Screenshots
+## 📸 Screenshots
 
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="720" height="720"/>
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="720" height="480"/>
