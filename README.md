@@ -6,16 +6,7 @@
 
 - Crear el Bot y obtener el TOKEN desde [https://telegram.me/BotFather](https://telegram.me/BotFather)
 
-## Screenshots
-
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="600" height="400"/>
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="600" height="400"/>
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png" width="600" height="400"/>
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png" width="600" height="400"/>
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/phone.jpg" width="600" height="400"/>
-
-
-
+  
 # 📒 Cómo usar
 
 1️⃣Ingresá a
@@ -34,6 +25,17 @@ cd DolarBotAr
 ```bash
 pip install -r requirements.txt
 ```
+
+## Screenshots
+
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/0.png" width="720" height="480"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="720" height="480"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png" width="720" height="480"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png" width="720" height="480"/>
+<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/phone.jpg" width="600" height="900"/>
+
+
+
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
