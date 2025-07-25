@@ -32,7 +32,7 @@ pip install -r requirements.txt
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/1.png" width="720" height="480"/>
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/2.png" width="720" height="480"/>
 <img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/3.png" width="720" height="480"/>
-<img src="https://github.com/FacuGuidobono/DolarBotAr/blob/main/images/phone.jpg" width="600" height="900"/>
+
 
 
 
